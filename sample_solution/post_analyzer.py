@@ -146,6 +146,9 @@ class PostAnalyzer:
 
 
 # Sample data for testing
+# Note: This is a subset of sample_data.json for quick testing/demo purposes.
+# It's kept in the code for convenience when running quick tests or examples
+# without requiring file I/O. For more comprehensive data, use sample_data.json.
 SAMPLE_POSTS = [
     {
         "id": 1,

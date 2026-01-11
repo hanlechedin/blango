@@ -87,10 +87,10 @@ The key is that they:
 
 ## Time Expectations
 
-A strong candidate should:
-- Complete core functionality in 25-30 minutes
-- Have basic tests in 30-35 minutes
-- Handle some edge cases by 35-40 minutes
-- Be ready to discuss by 40 minutes
+A strong candidate should (based on 35 minutes of implementation time):
+- Complete core functionality in 20-25 minutes
+- Have basic tests in 25-30 minutes
+- Handle some edge cases by 30-35 minutes
+- Be ready to discuss by 35 minutes
 
 It's okay if they don't finish everything - the goal is to see their approach and thinking process.
