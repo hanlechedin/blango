@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with Python",
+    "content": "Python is a great programming language for beginners. It has a simple syntax and is very readable.",
+    "author": "john_doe",
+    "tags": ["python", "tutorial", "beginners"],
+    "published_date": "2024-01-15",
+    "views": 1500,
+    "likes": 45
+  },
+  {
+    "id": 2,
+    "title": "Advanced Django Techniques",
+    "content": "Django provides many advanced features for web development. Learn about signals, middleware, and custom managers.",
+    "author": "jane_smith",
+    "tags": ["django", "python", "web"],
+    "published_date": "2024-02-20",
+    "views": 2000,
+    "likes": 80
+  },
+  {
+    "id": 3,
+    "title": "Python for Data Science",
+    "content": "Learn how to use Python for data analysis and machine learning. Explore pandas, numpy, and scikit-learn.",
+    "author": "john_doe",
+    "tags": ["python", "data-science", "ml"],
+    "published_date": "2024-03-10",
+    "views": 3000,
+    "likes": 120
+  },
+  {
+    "id": 4,
+    "title": "Building REST APIs with Django",
+    "content": "Django REST Framework makes it easy to build powerful APIs. Learn about serializers, viewsets, and authentication.",
+    "author": "jane_smith",
+    "tags": ["django", "api", "rest"],
+    "published_date": "2024-04-05",
+    "views": 2500,
+    "likes": 95
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Cloud Computing",
+    "content": "Cloud computing revolutionizes how we deploy and scale applications. Explore AWS, GCP, and Azure.",
+    "author": "bob_wilson",
+    "tags": ["cloud", "devops", "aws"],
+    "published_date": "2024-05-12",
+    "views": 1800,
+    "likes": 60
+  }
+]
